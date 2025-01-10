@@ -1,0 +1,4 @@
+EMAIL_USER = akashchawla497@gmail.com
+EMAIL_PASS = "ofud fmii zosl ilck"
+MONGO_URI = mongodb+srv://akashchawla497:Rahul2890@cluster0.tu9wy.mongodb.net/mailProjectAssesment?retryWrites=true&w=majority&appName=Cluster0
+
